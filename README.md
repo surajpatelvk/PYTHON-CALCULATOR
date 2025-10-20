@@ -1,2 +1,9 @@
 # PYTHON CALCULATOR
-A simple GUI Calculator using Python.
+
+A simple calculator made using **Python (console-based)** that performs basic arithmetic operations.
+
+---
+
+## 📂 Project Structure
+
+
